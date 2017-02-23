@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rewika</title>
+    <link>http://example.org/post/index.xml</link>
+    <description>Recent content in Posts on Rewika</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rewika.pl</copyright>
+    <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oferta</title>
+      <link>http://example.org/post/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/welcome/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus quam sed dui fermentum auctor. Maecenas luctus ornare blandit. Aliquam mattis est quis interdum varius. Donec dolor lorem, finibus at pretium bibendum, molestie id neque. Phasellus iaculis purus sed nulla vehicula pharetra. Integer varius aliquam nunc ut auctor. Sed gravida dolor vel ipsum iaculis rhoncus. Sed in dignissim mi. Pellentesque blandit odio nisl, nec pharetra lectus molestie a. Integer lacinia leo massa, nec feugiat velit ornare eu. Nullam nec malesuada ipsum. Vestibulum efficitur arcu ut ullamcorper eleifend. Donec id orci bibendum, efficitur leo nec, laoreet leo. Duis congue, odio a interdum tincidunt, purus nunc rhoncus enim, id vestibulum neque mi vitae metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi faucibus molestie dapibus.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
